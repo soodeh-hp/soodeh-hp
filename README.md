@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi, This is Soodeh 👋🏻
+ 💻</h1>
 
-<!--
-**soodeh-hp/soodeh-hp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src = "background.jpg"  />
+
+
+---
+
+I am a Junior Software Developer with hands-on practice in Python, focusing on clean design and practical functionality. My GitHub repositories showcase real projects, including applications where I have implemented graphical interfaces and event handling to enhance user experience. I am eager to learn and grow while contributing to real-world applications, and I am curious about artificial intelligence and machine learning, exploring how technology can adapt and support creativity
+
+---
+
+## 🌍 Find me around the web
+
+- 💼 Sharing updates on [LinkedIn](https://linkedin.com/in/soodeh-hp)
+- ✉️ Reach me via email: [soodehherfepasand1379@gmail.com](mailto:soodehherfepasand1379@gmail.com)
+- 💬 Chat with me on [Telegram](https://t.me/soodeh_9)
