@@ -3,10 +3,6 @@
 
 
 
-<img src = "background.jpg"  />
-
-
----
 
 I am a Junior Software Developer with hands-on practice in Python, focusing on clean design and practical functionality. My GitHub repositories showcase real projects, including applications where I have implemented graphical interfaces and event handling to enhance user experience. I am eager to learn and grow while contributing to real-world applications, and I am curious about artificial intelligence and machine learning, exploring how technology can adapt and support creativity
 
